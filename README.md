@@ -36,6 +36,10 @@ Build a system to identify unreliable news articles
 1. TF-IDF Vectorizer:
 
 ## 5. Evolution:
-## Conclusion:
+![ev](https://user-images.githubusercontent.com/42543380/142424563-6cf30f89-dc8f-4117-a96f-3cb2db91fae5.PNG)
+
+![lg](https://user-images.githubusercontent.com/42543380/142424648-9766986e-6c45-47d0-ba1d-538cf899e22f.PNG)
+
+## 6. Conclusion:
 Logistic regression with TF-IDF model is giving good result.
 
