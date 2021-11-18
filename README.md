@@ -43,3 +43,5 @@ Build a system to identify unreliable news articles
 ## 6. Conclusion:
 Logistic regression with TF-IDF model is giving good result.
 
+----
+Please upvote my [Implementation from Kaggle](https://www.kaggle.com/vaibhavkumbhar/fake-news-classifier)
